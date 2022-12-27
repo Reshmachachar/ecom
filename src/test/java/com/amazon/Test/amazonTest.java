@@ -44,6 +44,7 @@ public class amazonTest extends BaseTest
 		 for(WebElement list1:list)
 		 {
 			 System.out.println(list1.getText());
+			 System.out.println("Program end successfully");
 		 }
 	
 	}
